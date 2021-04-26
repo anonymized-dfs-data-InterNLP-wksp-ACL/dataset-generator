@@ -1,6 +1,6 @@
-# Accompanying codes with the SIGIR 2021 submission
+# Accompanying codes with the InterNLP 2021 submission
 
-These codes are being provided as supplementary material with the following paper submitted in SIGIR 2021 -
+These codes are being provided as supplementary material with the following paper submitted in InterNLP 2021 -
 
 `Dynamic Facet Selection by Maximizing Graded Relevance`
 
